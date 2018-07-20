@@ -5,6 +5,10 @@ body {
     font-size: 16pt;
 }
 
+input {
+    font-size: 30px;
+}
+
 h1{
     font-size: 46pt;
 }
